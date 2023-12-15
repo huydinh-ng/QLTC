@@ -1,14 +1,17 @@
-Pet Management Website
+**Pet Management Website**
 
-Description
+**Description**
+
 The website helps manage pet information such as: Weight, breed, vaccination status,...
 
-Technologies
+**Technologies**
+
 "HTML
 CSS
 Javascript"
 
-Link demo:
+**Link demo:**
+
 https://huydinh-ng.github.io/QLTC/
 
 Instructions to run the program on local: open file index.html
